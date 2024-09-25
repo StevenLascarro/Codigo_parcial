@@ -1,0 +1,18 @@
+/* auth.css */
+#authContainer {
+    position: absolute;
+    right: 60px;
+    top: 10px;
+}
+
+.authLink {
+    color: white;
+    font-weight: bold;
+    margin-left: 15px;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+}
+
+.authLink:hover {
+    color: #1a57b2;
+}
